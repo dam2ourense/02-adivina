@@ -28,6 +28,7 @@ export class HomePage {
         this.mayorMenor = "mayor de";
       }
       else{
+        
         this.mayorMenor = '';
       }
     }
